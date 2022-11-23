@@ -10,6 +10,6 @@ public class indexController {
     
     @GetMapping("/saludo")
     public String index(){
-        return "hola mundo";
+        return "hola mundo23";
     }
 }
